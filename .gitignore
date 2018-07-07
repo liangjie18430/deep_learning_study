@@ -1,0 +1,14 @@
+.DS_Store
+*.bogon
+*.local
+/.idea/*
+/.ipynb_checkpoints
+*.ipynb_checkpoints
+/.ipynb_checkpoints
+*.pyc
+*.csv
+*.gz
+*.zip
+*.pickle
+lianjia*/*
+*/*/text8
